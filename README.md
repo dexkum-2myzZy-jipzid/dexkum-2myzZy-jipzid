@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Header](https://github.com/dexkum-2myzZy-jipzid/dexkum-2myzZy-jipzid/blob/main/header.jpeg)
 
 Hello! 👋🏻  My name is **Liang (Mario) Chen**. I am from Northeastern University, where I am pursuing a Master's degree in Computer Software Engineering. 🎓
 
