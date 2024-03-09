@@ -25,7 +25,7 @@ Last year, I decided to take a significant leap forward by pursuing a Master's d
 
 During my first semester at Northeastern University (NEU), I learned Web Development 🕸️ and Java ☕. Here are my Web Development project, [Film 🎬](https://github.com/dexkum-2myzZy-jipzid/film.git), and Java Spring Boot project, [Inventory Management System 📦](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system), which are pinned on my GitHub.
 
-Currently, I am expanding my horizons by delving into front-end development, Data Structures, and Algorithms. 🧑‍💻
+Currently, I am expanding my horizons by delving into front-end development, [Data Structures and Algorithms](https://github.com/dexkum-2myzZy-jipzid/leetcode.git). 🧑‍💻
 
 I am open to connecting and discussing the exciting intersections of technology and innovation. 🤝 You can reach out to me at liang.chen829@gmail.com. Let's explore this ever-evolving world together. 🚀
 
