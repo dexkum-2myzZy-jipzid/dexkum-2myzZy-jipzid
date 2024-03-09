@@ -21,7 +21,7 @@ Hello! 👋🏻  My name is **Liang (Mario) Chen**. I am from Northeastern Unive
 
 I started my software development career in Mobile development 📱, working for 5 years as an iOS Developer 📲 and 1 year as a Flutter Developer 🎨 in the Fintech industry.💰 Last year, I decided to take a significant leap forward by pursuing a Master's degree 🎓, following my passion for Computer Science. 💻
 
-During my first semester at Northeastern University (NEU), I learned Web Development 🕸️ and Java ☕. Here are my Web Development project, Film 🎬, and Java Spring Boot project, [Inventory Management System 📦](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system), which are pinned on my GitHub.
+During my first semester at Northeastern University (NEU), I learned Web Development 🕸️ and Java ☕. Here are my Web Development project, [Film 🎬](https://github.com/dexkum-2myzZy-jipzid/film.git), and Java Spring Boot project, [Inventory Management System 📦](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system), which are pinned on my GitHub.
 
 Currently, I am expanding my horizons by delving into front-end development, Data Structures, and Algorithms. 🌐
 
