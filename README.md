@@ -17,22 +17,35 @@ Here are some ideas to get you started:
 
 ![Header](https://github.com/dexkum-2myzZy-jipzid/dexkum-2myzZy-jipzid/blob/main/header.jpeg)
 
-Hello! 👋🏻 My name is **Liang (Mario) Chen**. I am from Northeastern University, where I am pursuing a Master's degree in Computer Software Engineering. 🎓
+### Hello! 👋🏻 I'm **Liang (Mario) Chen**
 
-I started my software development career in Mobile development 📱, working for 5 years as an iOS Developer and 1 year as a Flutter Developer in the Fintech industry. 💰 During this time, I've crafted several applications, including [Hashkey Me](https://apps.apple.com/us/app/hashkey-me-simple-secure/id1547228803) and [HongTa Securities - Zhiyue Wealth](https://apps.apple.com/cn/app/id529436337).
+I am currently pursuing a Master's degree in Computer Software Engineering at Northeastern University. 🎓
 
-Last year, I decided to take a significant leap forward by pursuing a Master's degree 🎓, following my passion for Computer Science. 💻
+#### Experience
 
-During my first semester at Northeastern University (NEU), I learned Web Development 🕸️ and Java ☕. Here are my Web Development project, [Film 🎬](https://github.com/dexkum-2myzZy-jipzid/film.git), and Java Spring Boot project, [Inventory Management System 📦](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system), which are pinned on my GitHub.
+- **Mobile Development**: 5 years as an iOS Developer and 1 year as a Flutter Developer in Fintech industry.
+  - **Notable Projects**:
+    - 📱 [Hashkey Me](https://apps.apple.com/us/app/hashkey-me-simple-secure/id1547228803)
+    - 📈 [HongTa Securities - Zhiyue Wealth](https://apps.apple.com/cn/app/id529436337)
 
-Currently, I am expanding my horizons by delving into [full stack development](https://github.com/dexkum-2myzZy-jipzid/full-stack-projects.git), [Data Structures and Algorithms](https://github.com/dexkum-2myzZy-jipzid/leetcode.git). 🧑‍💻
+#### Education
 
-I am open to connecting and discussing the exciting intersections of technology and innovation. 🤝 You can reach out to me at liang.chen829@gmail.com. Let's explore this ever-evolving world together. 🚀
+- **Northeastern University**: Master's in Computer Software Engineering
+  - 🐦 [**Twitter Clone (JavaScript, React, Node.js, Express)** ](https://github.com/dexkum-2myzZy-jipzid/full-stack-projects)
+  - 📦 [**Inventory Management System (Java, Spring Boot, Spring Security, H2 Database)**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
 
-**Skills:**
+#### Current Focus
 
-**[** Mobile Development 📱, Web Development 🕸️, Backend Development ⚙️ **]**
+- Expanding skills in [full stack development](https://github.com/dexkum-2myzZy-jipzid/full-stack-projects.git)
+- Studying [Data Structures and Algorithms](https://github.com/dexkum-2myzZy-jipzid/leetcode.git)
 
-- 🌱 I’m currently learning Web Development & DSA
-- 📫 How to reach me: liang.chen829@gmail.com
+#### Connect with Me
+
+I'm passionate about technology and innovation. Let's connect and explore together! 🚀
+
+- 📮 Email: liang.chen829@gmail.com
 - 😄 Pronouns: He/His
+
+#### Skills
+
+**📱Mobile Development, 🌐 Full Stack Development**
