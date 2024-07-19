@@ -31,7 +31,7 @@ I am currently pursuing a Master's degree in Computer Software Engineering at No
 #### Education
 
 - **Northeastern University**: Master's in Computer Software Engineering
-  - 🐦 [**Twitter Clone (JavaScript, React, Node.js, Express)** ](https://github.com/dexkum-2myzZy-jipzid/full-stack-projects)
+  - 🐦 [**Y-Twitter Clone (React, Node.js, Express, MongoDB)** ](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone)
   - 📦 [**Inventory Management System (Java, Spring Boot, Spring Security, H2 Database)**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
 
 #### Current Focus
@@ -48,4 +48,4 @@ I'm passionate about technology and innovation. Let's connect and explore togeth
 
 #### Skills
 
-**📱Mobile Development, 🌐 Full Stack Development**
+**🌐 Full Stack Development, 📱Mobile Development**
