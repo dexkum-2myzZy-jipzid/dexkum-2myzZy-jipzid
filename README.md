@@ -34,6 +34,10 @@ I am currently pursuing a Master's degree in Computer Software Engineering at No
   - 🐦 [**Y-Twitter Clone (React, Node.js, Express, MongoDB)** ](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone)
   - 📦 [**Inventory Management System (Java, Spring Boot, Spring Security, H2 Database)**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
 
+#### Hackathons
+
+- **2024 TikTok TechJam**: Developed a project called **[Scriptly](https://devpost.com/software/scriptly)**, handling backend development with Django and Python, and deployed it to Heroku.
+
 #### Current Focus
 
 - Expanding skills in [full stack development](https://github.com/dexkum-2myzZy-jipzid/full-stack-projects.git)
