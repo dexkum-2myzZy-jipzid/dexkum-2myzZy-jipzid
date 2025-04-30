@@ -23,10 +23,16 @@ I am currently pursuing a Master's degree in Computer Software Engineering at No
 
 #### Experience
 
-- **Cloud Computing & DevOps**: Building a cloud-native movie recommendation engine as part of a cloud computing project, leveraging AWS, MySQL, Terraform, Packer, and GitHub Actions for automated deployment and scalability. (In Progress)
+- **Cloud Computing & DevOps**: Building a cloud-native movie recommendation engine as part of a cloud computing project, leveraging AWS, MySQL, Terraform, Packer, and GitHub Actions for automated deployment and scalability.
+
+  - 🏗️ [Infra Project](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – Terraform, GitHub Actions
+  - 🧠 [Code Project](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Flask, MySQL, EC2, Packer, AWS CloudWatch
+
 - **Full Stack Development**: Full Stack Intern at Impulse Solutions Group, developing scalable backend systems and integrating Firebase services.
+
   - **Notable Projects**:
     - 🤝 [Impulse: Achieve More Together](https://www.findyourimpulse.com)
+
 - **Mobile Development**: 5 years as an iOS Developer and 1 year as a Flutter Developer in Fintech industry.
   - **Notable Projects**:
     - 📱 [Hashkey Me](https://me.hashkey.com/en)
