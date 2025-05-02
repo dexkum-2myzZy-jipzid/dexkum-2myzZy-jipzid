@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 
 ### Hello! 👋🏻 I'm **Liang (Mario) Chen**
 
-I am currently pursuing a Master's degree in Computer Software Engineering at Northeastern University. 🎓
+_Master’s Candidate & Full-Stack Engineer building cloud-native solutions._
 
-#### Experience
+**Key Technologies:** `AWS` `Terraform` `GitHub Actions` `Packer` `Python (Flask, Django)` `MySQL` `React Native` `Firebase` `Swift` `Objective-C` `Flutter`
 
-- **Cloud Computing & DevOps**: Building a cloud-native movie recommendation engine as part of a cloud computing project, leveraging AWS, MySQL, Terraform, Packer, and GitHub Actions for automated deployment and scalability.
-
-  - 🏗️ [Infra Project](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – Terraform, GitHub Actions
-  - 🧠 [Code Project](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Flask, MySQL, EC2, Packer, AWS CloudWatch
+#### Professional Experience
 
 - **Full Stack Development**: Full Stack Intern at Impulse Solutions Group, developing scalable backend systems and integrating Firebase services.
 
@@ -41,7 +38,9 @@ I am currently pursuing a Master's degree in Computer Software Engineering at No
 #### Education
 
 - **Northeastern University**: Master's in Computer Software Engineering
-  - ☁️ **Cloud-Native Movie Recommendation Engine** (AWS, MySQL, Terraform, Packer, GitHub Actions) – In Progress
+  - **Cloud Computing & DevOps (Graduate Course Project)**: Independently developed a cloud-native movie recommendation engine for a semester-long project in CSYE 6225 at Northeastern University. The project covered infrastructure automation, CI/CD, backend development, and monitoring.
+    - 🏗️ [Infra Project](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – Provisioned AWS infrastructure using Terraform, automating setup of VPC, subnets, EC2 instances, security groups, load balancing, and Route 53 DNS. Integrated CloudWatch for monitoring and GitHub Actions for CI/CD and infrastructure testing.
+    - 🧠 [Code Project](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Engineered a backend stack using Flask and MySQL, built AMIs with Packer, and deployed to EC2 with logging and metrics wired into CloudWatch.
   - 🐦 [**Y-Twitter Clone (React, Node.js, Express, MongoDB)** ](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone)
   - 📦 [**Inventory Management System (Java, Spring Boot, Spring Security, H2 Database)**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
 
@@ -49,13 +48,13 @@ I am currently pursuing a Master's degree in Computer Software Engineering at No
 
 - **2024 TikTok TechJam**: Developed a AI project called **[Scriptly](https://devpost.com/software/scriptly)**, handling backend development with Django and Python, and deployed it to Heroku.
 
-#### Current Focus
+#### 🎯 Current Focus
 
 - Studying **CSYE 6225 Network Structures and Cloud Computing**
 
-#### Connect with Me
+## 📬 Let's Connect
 
-I'm passionate about technology and innovation. Let's connect and explore together! 🚀
+I'm open to Software Development Engineer (SDE) roles starting December 2025 or later.
 
-- 📮 Email: liang.chen829@gmail.com
-- 😄 Pronouns: He/His
+- 📧 liang.chen829@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/liang-chen-0829zzz)
