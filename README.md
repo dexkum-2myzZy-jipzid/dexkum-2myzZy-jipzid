@@ -29,7 +29,7 @@ _Master's Candidate & Full-Stack Engineer building cloud-native solutions._
 
 #### 💼 Professional Experience
 
-- **Full Stack Development**: Full Stack Intern at Impulse Solutions Group, developing scalable backend systems and integrating Firebase services.
+- **Full Stack Development**: Full Stack Developer Intern at Impulse Solutions Group, developing scalable backend systems and integrating Firebase services.
 
   - **Notable Projects**:
     - 🤝 [Impulse: Achieve More Together](https://www.findyourimpulse.com)
@@ -46,17 +46,19 @@ _Master's Candidate & Full-Stack Engineer building cloud-native solutions._
 #### 🚀 Academic Projects
 
 - ☁️ **Cloud-Native Movie Recommendation Engine** (CSYE 6225 Course Project): Independently developed a full cloud deployment pipeline, simulating real-world workflows.
+
   - 🏗️ [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – Provisioned AWS infrastructure using Terraform, automating setup of VPC, subnets, EC2 instances, security groups, load balancing, and Route 53 DNS. Integrated CloudWatch for monitoring and GitHub Actions for CI/CD and infrastructure testing.
   - 🧠 [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Engineered a backend stack using Flask and MySQL, built AMIs with Packer, and deployed to EC2 with logging and metrics wired into CloudWatch.
-  - **Technologies**: AWS, Terraform, Packer, GitHub Actions, Flask, MySQL
+  - **Technologies**: `AWS`, `Terraform`, `Packer`, `GitHub Actions`, `Flask`, `MySQL`
+
 - 🐦 [**Y-Twitter Clone**](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone)
 
   - Built a fully functional social media platform with real-time updates
-  - **Technologies**: React, Node.js, Express, MongoDB
+  - **Technologies**: `React`, `Node.js`, `Express`, `MongoDB`
 
 - 📦 [**Inventory Management System**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
   - Developed a secure inventory tracking solution with role-based access control
-  - **Technologies**: Java, Spring Boot, Spring Security, H2 Database
+  - **Technologies**: `Java`, `Spring Boot`, `Spring Security`, `H2 Database`
 
 #### 🏆 Hackathons
 
