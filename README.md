@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 ### Hello! 👋🏻 I'm **Liang (Mario) Chen**
 
-_Master’s Candidate & Full-Stack Engineer building cloud-native solutions._
+_Master's Candidate & Full-Stack Engineer building cloud-native solutions._
 
-**Key Technologies:** `AWS` `Terraform` `GitHub Actions` `Packer` `Python (Flask, Django)` `MySQL` `React Native` `Firebase` `Swift` `Objective-C` `Flutter`
+#### 🛠️ Technical Skills
 
-#### Professional Experience
+- **Cloud & DevOps**: `AWS` `Terraform` `GitHub Actions` `Packer` `CloudWatch`
+- **Backend**: `Python (Flask, Django)` `MySQL` `Node.js` `Express` `MongoDB` `Java` `Spring Boot`
+- **Frontend & Mobile**: `React Native` `Firebase` `Swift` `Objective-C` `Flutter`
+
+#### 💼 Professional Experience
 
 - **Full Stack Development**: Full Stack Intern at Impulse Solutions Group, developing scalable backend systems and integrating Firebase services.
 
@@ -35,16 +39,26 @@ _Master’s Candidate & Full-Stack Engineer building cloud-native solutions._
     - 📱 [Hashkey Me](https://me.hashkey.com/en)
     - 📈 [HongTa Securities - Zhiyue Wealth](https://apps.apple.com/cn/app/id529436337)
 
-#### Education
+#### 🎓 Education
 
-- **Northeastern University**: Master's in Computer Software Engineering
-  - **Cloud Computing & DevOps (Graduate Course Project)**: Independently developed a cloud-native movie recommendation engine for a semester-long project in CSYE 6225 at Northeastern University. The project covered infrastructure automation, CI/CD, backend development, and monitoring.
-    - 🏗️ [Infra Project](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – Provisioned AWS infrastructure using Terraform, automating setup of VPC, subnets, EC2 instances, security groups, load balancing, and Route 53 DNS. Integrated CloudWatch for monitoring and GitHub Actions for CI/CD and infrastructure testing.
-    - 🧠 [Code Project](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Engineered a backend stack using Flask and MySQL, built AMIs with Packer, and deployed to EC2 with logging and metrics wired into CloudWatch.
-  - 🐦 [**Y-Twitter Clone (React, Node.js, Express, MongoDB)** ](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone)
-  - 📦 [**Inventory Management System (Java, Spring Boot, Spring Security, H2 Database)**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
+- **Northeastern University**: Master's in Computer Software Engineering (**Expected Dec 2025**)
 
-#### Hackathons
+#### 🚀 Academic Projects
+
+- ☁️ **Cloud-Native Movie Recommendation Engine** (CSYE 6225 Course Project): Independently developed a full cloud deployment pipeline, simulating real-world workflows.
+  - 🏗️ [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – Provisioned AWS infrastructure using Terraform, automating setup of VPC, subnets, EC2 instances, security groups, load balancing, and Route 53 DNS. Integrated CloudWatch for monitoring and GitHub Actions for CI/CD and infrastructure testing.
+  - 🧠 [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Engineered a backend stack using Flask and MySQL, built AMIs with Packer, and deployed to EC2 with logging and metrics wired into CloudWatch.
+  - **Technologies**: AWS, Terraform, Packer, GitHub Actions, Flask, MySQL
+- 🐦 [**Y-Twitter Clone**](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone)
+
+  - Built a fully functional social media platform with real-time updates
+  - **Technologies**: React, Node.js, Express, MongoDB
+
+- 📦 [**Inventory Management System**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
+  - Developed a secure inventory tracking solution with role-based access control
+  - **Technologies**: Java, Spring Boot, Spring Security, H2 Database
+
+#### 🏆 Hackathons
 
 - **2024 TikTok TechJam**: Developed a AI project called **[Scriptly](https://devpost.com/software/scriptly)**, handling backend development with Django and Python, and deployed it to Heroku.
 
