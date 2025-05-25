@@ -66,7 +66,7 @@ _Master's Candidate & Full-Stack Engineer building cloud-native solutions._
 
 #### 🎯 Current Focus
 
-- Studying **CSYE 6225 Network Structures and Cloud Computing**
+- Studying **INFO 7375 High Performance Computing for AI**
 
 ## 📬 Let's Connect
 
