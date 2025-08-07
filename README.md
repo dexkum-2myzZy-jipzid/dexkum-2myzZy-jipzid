@@ -36,8 +36,8 @@ _Master's Candidate & Full-Stack Engineer building cloud-native solutions._
 
 - **Mobile Development**: 5 years as an iOS Developer and 1 year as a Flutter Developer in Fintech industry.
   - **Notable Projects**:
-    - 📱 [Hashkey Me](https://me.hashkey.com/en)
-    - 📈 [HongTa Securities - Zhiyue Wealth](https://apps.apple.com/cn/app/id529436337)
+    - 📱 [Hashkey Me](https://me.hashkey.com/zh-CN)
+    - 📈 [HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337)
 
 #### 🎓 Education
 
@@ -72,5 +72,5 @@ _Master's Candidate & Full-Stack Engineer building cloud-native solutions._
 
 I'm open to Software Development Engineer (SDE) roles starting December 2025 or later.
 
-- 📧 liang.chen829@gmail.com
+- 📧 <liang.chen829@gmail.com>
 - 🔗 [LinkedIn](https://www.linkedin.com/in/liang-chen-0829zzz)
