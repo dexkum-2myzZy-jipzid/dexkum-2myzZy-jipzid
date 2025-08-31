@@ -51,6 +51,12 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
   - [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – AWS infrastructure provisioning with Terraform, GitHub Actions CI/CD
   - [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Flask backend with MySQL, deployed on EC2 with CloudWatch monitoring
 
+**DAMG6210 Data Management and Database Design**  
+`SQL Server` `Stored Procedures` `Encryption` `Database Design`
+
+- [**Student Course Enrollment System**](https://github.com/dexkum-2myzZy-jipzid/student-enrollment-system): Comprehensive enrollment management with advanced database features
+  - [Video Presentation](https://youtu.be/yBI5mhUKm9g?si=lSQA8FvK2D8IWUwi&t=3037) - Project presentation and technical overview
+
 **INFO6250 Web Development Tools and Methods**
 `React` `Node.js` `Express` `MongoDB`
 
