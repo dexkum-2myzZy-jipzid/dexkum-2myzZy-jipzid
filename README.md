@@ -23,9 +23,9 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 
 #### 🛠️ Technical Skills
 
-**Languages & Frameworks**: `Python` `JavaScript` `Java` `Swift` `React` `Flask` `Spring Boot`
-**Cloud & DevOps**: `AWS` `Terraform` `Packer` `GitHub Actions` `Docker`
-**Databases**: `MySQL` `MongoDB`
+**Languages & Frameworks:** `Python` `JavaScript` `Java` `Swift` `React` `Flask` `Spring Boot`  
+**Cloud & DevOps:** `AWS` `Terraform` `Packer` `GitHub Actions` `Docker`  
+**Databases:** `MySQL` `MongoDB`
 
 #### 💼 Professional Experience
 
@@ -47,7 +47,7 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 **CSYE6225 Network Structures and Cloud Computing**
 `AWS` `Terraform` `Packer` `GitHub Actions` `Flask` `MySQL`
 
-- ☁️ **Cloud-Native Movie Recommendation Engine**: Full cloud deployment pipeline with infrastructure automation
+- **Cloud-Native Movie Recommendation Engine**: Full cloud deployment pipeline with infrastructure automation
   - [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – AWS infrastructure provisioning with Terraform, GitHub Actions CI/CD
   - [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Flask backend with MySQL, deployed on EC2 with CloudWatch monitoring
 
