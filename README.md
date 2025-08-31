@@ -49,6 +49,15 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 
 #### 🚀 Academic Projects
 
+##### INFO7375 High Performance Computing for AI
+
+`CUDA` `MPI` `C` `Python` `GPU Computing`
+
+- [**High Performance Computing for AI**](https://github.com/dexkum-2myzZy-jipzid/INFO7375-HPC-AI): Comprehensive HPC implementations for AI workloads
+  - CUDA-accelerated LLaMA2 inference with 15.7× speedup over CPU baseline
+  - FlashAttention implementation achieving 8.51× performance improvement with GEMV optimization
+  - Multi-GPU distributed matrix multiplication using SUMMA algorithm with 99% efficiency on 4 GPUs
+
 ##### CSYE6225 Network Structures and Cloud Computing
 
 `AWS` `Terraform` `Packer` `GitHub Actions` `Flask` `MySQL`
