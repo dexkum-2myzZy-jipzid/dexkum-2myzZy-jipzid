@@ -23,9 +23,14 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 
 #### 🛠️ Technical Skills
 
-**Languages & Frameworks:** `Python` `JavaScript` `Java` `Swift` `React` `Flask` `Spring Boot`  
-**Cloud & DevOps:** `AWS` `Terraform` `Packer` `GitHub Actions` `Docker`  
-**Databases:** `MySQL` `MongoDB`
+**Languages & Frameworks:** 
+`Python` `JavaScript` `Java` `Swift` `Objective-C` `React` `Flask` `Spring Boot`
+
+**Cloud & DevOps:** 
+`AWS` `Terraform` `Packer` `GitHub Actions` `Docker`
+
+**Databases:** 
+`MySQL` `MongoDB`
 
 #### 💼 Professional Experience
 
