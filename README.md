@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋🏻 I'm **Liang (Mario) Chen**
 
-Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northeastern University, expanding into full‑stack, cloud, HPC. I ship production systems and care about clear interfaces, performance, and reliability.
+_Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northeastern University, expanding into full‑stack, cloud, HPC. I ship production systems and care about clear interfaces, performance, and reliability._
 
 #### 🛠️ Technical Skills
 
@@ -53,10 +53,9 @@ Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northeas
 
 `CUDA` `MPI` `C` `Python` `GPU Computing`
 
-- [**High Performance Computing for AI**](https://github.com/dexkum-2myzZy-jipzid/INFO7375-HPC-AI): Comprehensive HPC implementations for AI workloads
-  - CUDA-accelerated LLaMA2 inference with 15.7× speedup over CPU baseline
-  - FlashAttention implementation achieving 8.51× performance improvement with GEMV optimization
-  - Multi-GPU distributed matrix multiplication using SUMMA algorithm with 99% efficiency on 4 GPUs
+- [**HPC for AI**](https://github.com/dexkum-2myzZy-jipzid/INFO7375-HPC-AI): Comprehensive HPC implementations for AI workloads
+  - FlashAttention implementation with GPU kernel optimization
+  - Multi-GPU distributed computing using SUMMA algorithm
 
 ##### CSYE6225 Network Structures and Cloud Computing
 
