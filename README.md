@@ -45,7 +45,6 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 #### 🚀 Academic Projects
 
 **CSYE6225 Network Structures and Cloud Computing**
-
 `AWS` `Terraform` `Packer` `GitHub Actions` `Flask` `MySQL`
 
 - **Cloud-Native Movie Recommendation Engine**: Full cloud deployment pipeline with infrastructure automation
@@ -59,13 +58,11 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
   - [Video Presentation](https://youtu.be/yBI5mhUKm9g?si=lSQA8FvK2D8IWUwi&t=3037) - Project presentation and technical overview
 
 **INFO6250 Web Development Tools and Methods**
-
 `React` `Node.js` `Express` `MongoDB`
 
 - [**Y-Twitter Clone**](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone): Social media platform with real-time updates
 
 **INFO5100 Application Engineering and Development**
-
 `Java` `Spring Boot` `Spring Security` `H2 Database`
 
 - [**Inventory Management System**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system): Secure inventory solution with role-based access control
