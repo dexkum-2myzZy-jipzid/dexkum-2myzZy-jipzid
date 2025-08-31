@@ -19,58 +19,59 @@ Here are some ideas to get you started:
 
 ### Hello! 👋🏻 I'm **Liang (Mario) Chen**
 
-_Master's Candidate & Full-Stack Engineer building cloud-native solutions._
+_Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northeastern University, expanding into full‑stack, cloud, HPC. I ship production systems and care about clear interfaces, performance, and reliability._
 
 #### 🛠️ Technical Skills
 
-- **Cloud & DevOps**: `AWS` `Terraform` `GitHub Actions` `Packer` `CloudWatch`
-- **Backend**: `Python (Flask, Django)` `MySQL` `Node.js` `Express` `MongoDB` `Java` `Spring Boot`
-- **Frontend & Mobile**: `React Native` `Firebase` `Swift` `Objective-C` `Flutter`
+**Languages & Frameworks**: `Python` `JavaScript` `Java` `Swift` `React` `Flask` `Spring Boot`
+**Cloud & DevOps**: `AWS` `Terraform` `Packer` `GitHub Actions` `Docker`
+**Databases**: `MySQL` `MongoDB`
 
 #### 💼 Professional Experience
 
-- **Full Stack Development**: Full Stack Developer Intern at Impulse Solutions Group, developing scalable backend systems and integrating Firebase services.
+**Full Stack Developer Intern**
 
-  - **Notable Projects**:
-    - 🤝 [Impulse: Achieve More Together](https://www.findyourimpulse.com)
+- 🤝 [Impulse: Achieve More Together](https://www.findyourimpulse.com) - Social productivity platform
 
-- **Mobile Development**: 5 years as an iOS Developer and 1 year as a Flutter Developer in Fintech industry.
-  - **Notable Projects**:
-    - 📱 [Hashkey Me](https://me.hashkey.com/zh-CN)
-    - 📈 [HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337)
+**Mobile Software Engineer** (5 years)
+
+- 📱 [Hashkey Me](https://me.hashkey.com/zh-CN) - Blockchain wallet application
+- 📈 [HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337) - Financial trading platform
 
 #### 🎓 Education
 
-- **Northeastern University**: Master's in Computer Software Engineering (**Expected Dec 2025**)
+**Northeastern University**: Master's in Computer Software Engineering (**Expected Dec 2025**)
 
 #### 🚀 Academic Projects
 
-- ☁️ **Cloud-Native Movie Recommendation Engine** (CSYE 6225 Course Project): Independently developed a full cloud deployment pipeline, simulating real-world workflows.
+**CSYE6225 Network Structures and Cloud Computing**
+`AWS` `Terraform` `Packer` `GitHub Actions` `Flask` `MySQL`
 
-  - 🏗️ [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – Provisioned AWS infrastructure using Terraform, automating setup of VPC, subnets, EC2 instances, security groups, load balancing, and Route 53 DNS. Integrated CloudWatch for monitoring and GitHub Actions for CI/CD and infrastructure testing.
-  - 🧠 [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Engineered a backend stack using Flask and MySQL, built AMIs with Packer, and deployed to EC2 with logging and metrics wired into CloudWatch.
-  - **Technologies**: `AWS`, `Terraform`, `Packer`, `GitHub Actions`, `Flask`, `MySQL`
+- ☁️ **Cloud-Native Movie Recommendation Engine**: Full cloud deployment pipeline with infrastructure automation
+  - [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – AWS infrastructure provisioning with Terraform, GitHub Actions CI/CD
+  - [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Flask backend with MySQL, deployed on EC2 with CloudWatch monitoring
 
-- 🐦 [**Y-Twitter Clone**](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone)
+**INFO6250 Web Development Tools and Methods**
+`React` `Node.js` `Express` `MongoDB`
 
-  - Built a fully functional social media platform with real-time updates
-  - **Technologies**: `React`, `Node.js`, `Express`, `MongoDB`
+- [**Y-Twitter Clone**](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone): Social media platform with real-time updates
 
-- 📦 [**Inventory Management System**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system)
-  - Developed a secure inventory tracking solution with role-based access control
-  - **Technologies**: `Java`, `Spring Boot`, `Spring Security`, `H2 Database`
+**INFO5100 Application Engineering and Development**
+`Java` `Spring Boot` `Spring Security` `H2 Database`
+
+- [**Inventory Management System**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system): Secure inventory solution with role-based access control
 
 #### 🏆 Hackathons
 
-- **2024 TikTok TechJam**: Developed a AI project called **[Scriptly](https://devpost.com/software/scriptly)**, handling backend development with Django and Python, and deployed it to Heroku.
+**2024 TikTok TechJam**: [**Scriptly**](https://devpost.com/software/scriptly) - AI-powered content generation tool • `Django` `Python` `Heroku`
 
 #### 🎯 Current Focus
 
-- Studying **INFO 7375 High Performance Computing for AI**
+Expanding expertise in **Natural Language Processing** and returning to **Mobile Development**
 
 ## 📬 Let's Connect
 
-I'm open to Software Development Engineer (SDE) roles starting December 2025 or later.
+Seeking SDE roles starting January 2026.
 
 - 📧 <liang.chen829@gmail.com>
 - 🔗 [LinkedIn](https://www.linkedin.com/in/liang-chen-0829zzz)
