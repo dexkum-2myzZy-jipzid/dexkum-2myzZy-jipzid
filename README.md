@@ -44,25 +44,29 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 
 #### 🚀 Academic Projects
 
-**CSYE6225 Network Structures and Cloud Computing**
+##### CSYE6225 Network Structures and Cloud Computing
+
 `AWS` `Terraform` `Packer` `GitHub Actions` `Flask` `MySQL`
 
 - **Cloud-Native Movie Recommendation Engine**: Full cloud deployment pipeline with infrastructure automation
   - [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – AWS infrastructure provisioning with Terraform, GitHub Actions CI/CD
   - [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Flask backend with MySQL, deployed on EC2 with CloudWatch monitoring
 
-**DAMG6210 Data Management and Database Design**  
+##### DAMG6210 Data Management and Database Design
+
 `SQL Server` `Stored Procedures` `Encryption` `Database Design`
 
 - [**Student Course Enrollment System**](https://github.com/dexkum-2myzZy-jipzid/student-enrollment-system): Comprehensive enrollment management with advanced database features
   - [Video Presentation](https://youtu.be/yBI5mhUKm9g?si=lSQA8FvK2D8IWUwi&t=3037) - Project presentation and technical overview
 
-**INFO6250 Web Development Tools and Methods**
+##### INFO6250 Web Development Tools and Methods
+
 `React` `Node.js` `Express` `MongoDB`
 
 - [**Y-Twitter Clone**](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone): Social media platform with real-time updates
 
-**INFO5100 Application Engineering and Development**
+##### INFO5100 Application Engineering and Development
+
 `Java` `Spring Boot` `Spring Security` `H2 Database`
 
 - [**Inventory Management System**](https://github.com/dexkum-2myzZy-jipzid/inventory-management-system): Secure inventory solution with role-based access control
