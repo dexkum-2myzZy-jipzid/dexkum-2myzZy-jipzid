@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋🏻 I'm **Liang (Mario) Chen**
 
-_Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northeastern University, expanding into full‑stack, cloud, HPC. I ship production systems and care about clear interfaces, performance, and reliability._
+Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northeastern University, expanding into full‑stack, cloud, HPC. I ship production systems and care about clear interfaces, performance, and reliability.
 
 #### 🛠️ Technical Skills
 
