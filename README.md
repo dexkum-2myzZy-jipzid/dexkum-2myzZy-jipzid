@@ -24,7 +24,7 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 #### 🛠️ Technical Skills
 
 **Languages & Frameworks:**  
-`Python` `JavaScript` `Java` `Swift` `Objective-C` `React` `Flask` `Spring Boot`
+`Python` `JavaScript` `Java` `Swift` `Objective-C` `Node.js` `React` `Flask` `Spring Boot`
 
 **Cloud & DevOps:**  
 `AWS` `Terraform` `Packer` `GitHub Actions` `Docker`
@@ -34,14 +34,14 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 
 #### 💼 Professional Experience
 
-**Full Stack Developer Intern**
+#### Full Stack Developer Intern
 
-- 🤝 [Impulse: Achieve More Together](https://www.findyourimpulse.com) - Social productivity platform
+- 🤝 [Impulse: Achieve More Together](https://www.findyourimpulse.com) - Social productivity platform • `Node.js` `React Native`
 
 **Mobile Software Engineer** (5 years)
 
-- 📱 [Hashkey Me](https://me.hashkey.com/zh-CN) - Blockchain wallet application
-- 📈 [HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337) - Financial trading platform
+- 📱 [Hashkey Me](https://me.hashkey.com/zh-CN) - Blockchain wallet application • `Dart` `Flutter`
+- 📈 [HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337) - Financial trading platform  • `Objective-C` `UIKit`
 
 #### 🎓 Education
 
