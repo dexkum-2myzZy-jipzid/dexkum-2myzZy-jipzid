@@ -74,7 +74,7 @@ _Software engineer with 5+ years in mobile (fintech, blockchain). Now at Northea
 
 ##### INFO6250 Web Development Tools and Methods
 
-`React` `Node.js` `Express` `MongoDB`
+`React` `Node.js` `Express` `MongoDB` `AWS` `Docker` `Travis CI`
 
 - [**Y-Twitter Clone**](https://github.com/dexkum-2myzZy-jipzid/Y-TwitterClone): Social media platform with real-time updates
 
